@@ -1,0 +1,21 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <ui:VisualElement name="BackgroundColor" style="flex-grow: 1; background-color: rgb(0, 0, 0); justify-content: center; align-self: stretch;">
+        <ui:VisualElement style="flex-grow: 1; background-color: rgb(255, 187, 0); width: 57px; left: 293px; scale: 1 0.8; justify-content: center; align-self: flex-start; top: 14px;">
+            <ui:Label text="Level: 30" style="top: 244px; right: -246px; color: rgb(255, 255, 255); font-size: 25px; -unity-font-definition: url(&quot;project://database/Assets/OptimusPrinceps.ttf?fileID=12800000&amp;guid=ea11d3b2a1ea9b841b07b36fd57d9e59&amp;type=3#OptimusPrinceps&quot;); left: 293px;">
+                <ui:Label text="Random Nickname" style="top: -115px;"/>
+            </ui:Label>
+            <ui:VisualElement style="flex-grow: 1; background-color: rgb(255, 187, 0); width: 57px; left: 1056px; justify-content: center;">
+                <ui:VisualElement style="flex-grow: 1; background-color: rgb(255, 187, 0); width: 57px; left: auto; top: 359px; right: 533px; scale: 18 0.06; justify-content: center; align-self: center;">
+                    <ui:VisualElement name="VisualElement" style="flex-grow: 1; background-color: rgb(255, 187, 0); width: 57px; left: auto; top: -4441px; right: auto; scale: 1 1; align-self: center; justify-content: center;">
+                        <ui:VisualElement name="VisualElement" style="flex-grow: 1; background-color: rgb(255, 187, 0); width: 57px; left: auto; top: -3840px; right: auto; scale: 1 1; justify-content: center; align-self: center;">
+                            <ui:VisualElement name="VisualElement" style="flex-grow: 1; background-color: rgb(255, 187, 0); width: 57px; left: auto; top: -4641px; right: auto; scale: 1 1; justify-content: center; align-self: center;"/>
+                        </ui:VisualElement>
+                    </ui:VisualElement>
+                </ui:VisualElement>
+            </ui:VisualElement>
+        </ui:VisualElement>
+        <ui:Image style="background-image: url(&quot;project://database/Assets/tumblr_0706ec5bdb68843d0db7c298ca65ba28_2f9955f2_1280.jpg?fileID=2800000&amp;guid=026e9d0272fdc9f498e6c209cdd42004&amp;type=3#tumblr_0706ec5bdb68843d0db7c298ca65ba28_2f9955f2_1280&quot;); height: 133px; width: 128px; top: -717px; left: 368px;">
+            <ui:Button text="Select Character" name="SelectBtn" style="top: 50px; right: -805px; -unity-font-definition: url(&quot;project://database/Assets/OptimusPrinceps.ttf?fileID=12800000&amp;guid=ea11d3b2a1ea9b841b07b36fd57d9e59&amp;type=3#OptimusPrinceps&quot;); width: 145px; height: 87px;"/>
+        </ui:Image>
+    </ui:VisualElement>
+</ui:UXML>
